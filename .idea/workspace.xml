@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6edd880-56ce-4fee-8717-7d2d3a31370c" name="Default Changelist" comment="fix: correct minor typos in code&#10;&#10;see the issue for details&#10;&#10;on typos fixed.&#10;&#10;Reviewed-by: Z&#10;Refs #133">
+    <list default="true" id="b6edd880-56ce-4fee-8717-7d2d3a31370c" name="Default Changelist" comment="Test tap">
+      <change beforePath="$PROJECT_DIR$/.github/tap-release.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637803828960</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Test tap">
+      <created>1637805534456</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1637805534457</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +140,7 @@
     <MESSAGE value="Merge branch master" />
     <MESSAGE value="Test probot" />
     <MESSAGE value="fix: correct minor typos in code&#10;&#10;see the issue for details&#10;&#10;on typos fixed.&#10;&#10;Reviewed-by: Z&#10;Refs #133" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: correct minor typos in code&#10;&#10;see the issue for details&#10;&#10;on typos fixed.&#10;&#10;Reviewed-by: Z&#10;Refs #133" />
+    <MESSAGE value="Test tap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test tap" />
   </component>
 </project>
