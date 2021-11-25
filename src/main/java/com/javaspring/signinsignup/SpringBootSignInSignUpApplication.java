@@ -5,8 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SpringBootSignInSignUpApplication {
-	// AAAAAAAAAAAAAAAAAAA
-	// BBBBBBBBBBBBBBBB
+	// Testttt
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootSignInSignUpApplication.class, args);
 	}
