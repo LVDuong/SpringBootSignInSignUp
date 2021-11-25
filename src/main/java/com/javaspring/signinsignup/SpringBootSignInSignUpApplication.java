@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SpringBootSignInSignUpApplication {
-	// Release Drafter v3.0.0
+	// Release Drafter v3.0.0 test
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootSignInSignUpApplication.class, args);
 	}
