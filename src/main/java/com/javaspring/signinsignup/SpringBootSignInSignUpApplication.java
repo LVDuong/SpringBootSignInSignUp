@@ -6,6 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringBootSignInSignUpApplication {
 	// Release Drafter v4.0.0
+	// Release Drafter v4.0.1
+
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootSignInSignUpApplication.class, args);
 	}
