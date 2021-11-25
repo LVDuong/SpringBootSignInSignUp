@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6edd880-56ce-4fee-8717-7d2d3a31370c" name="Default Changelist" comment="Test probot">
+    <list default="true" id="b6edd880-56ce-4fee-8717-7d2d3a31370c" name="Default Changelist" comment="fix: correct minor typos in code&#10;&#10;see the issue for details&#10;&#10;on typos fixed.&#10;&#10;Reviewed-by: Z&#10;Refs #133">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +12,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,6 +44,19 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\Desktop\test\SpringBootSignInSignUp" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -78,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637802217250</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix: correct minor typos in code&#10;&#10;see the issue for details&#10;&#10;on typos fixed.&#10;&#10;Reviewed-by: Z&#10;Refs #133">
+      <created>1637803828960</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637803828960</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,7 +115,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -111,6 +131,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merge branch master" />
     <MESSAGE value="Test probot" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test probot" />
+    <MESSAGE value="fix: correct minor typos in code&#10;&#10;see the issue for details&#10;&#10;on typos fixed.&#10;&#10;Reviewed-by: Z&#10;Refs #133" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: correct minor typos in code&#10;&#10;see the issue for details&#10;&#10;on typos fixed.&#10;&#10;Reviewed-by: Z&#10;Refs #133" />
   </component>
 </project>
