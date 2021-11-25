@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6edd880-56ce-4fee-8717-7d2d3a31370c" name="Default Changelist" comment="Test Release Drafter vvvvvvv" />
+    <list default="true" id="b6edd880-56ce-4fee-8717-7d2d3a31370c" name="Default Changelist" comment="Test Release Drafter v2.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637807844196</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Test Release Drafter v2.0">
+      <created>1637808472915</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1637808472915</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,6 +176,7 @@
     <MESSAGE value="Test Release Drafter" />
     <MESSAGE value="Test Release Drafter vvvv" />
     <MESSAGE value="Test Release Drafter vvvvvvv" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Release Drafter vvvvvvv" />
+    <MESSAGE value="Test Release Drafter v2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Release Drafter v2.0" />
   </component>
 </project>
