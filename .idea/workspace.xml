@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6edd880-56ce-4fee-8717-7d2d3a31370c" name="Default Changelist" comment="Test Release Drafter v3.0" />
+    <list default="true" id="b6edd880-56ce-4fee-8717-7d2d3a31370c" name="Default Changelist" comment="More Release v" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,7 +159,35 @@
       <option name="project" value="LOCAL" />
       <updated>1637808755322</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Test Release Drafter v4.0.0">
+      <created>1637810349416</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1637810349416</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Test Release Drafter v4.0.1">
+      <created>1637810396299</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1637810396300</updated>
+    </task>
+    <task id="LOCAL-00016" summary="More Release">
+      <created>1637810418105</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1637810418105</updated>
+    </task>
+    <task id="LOCAL-00017" summary="More Release v">
+      <created>1637810761687</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1637810761687</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +229,10 @@
     <MESSAGE value="Test Release Drafter v2.1" />
     <MESSAGE value="Test Release Drafter v3" />
     <MESSAGE value="Test Release Drafter v3.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Release Drafter v3.0" />
+    <MESSAGE value="Test Release Drafter v4.0.0" />
+    <MESSAGE value="Test Release Drafter v4.0.1" />
+    <MESSAGE value="More Release" />
+    <MESSAGE value="More Release v" />
+    <option name="LAST_COMMIT_MESSAGE" value="More Release v" />
   </component>
 </project>
